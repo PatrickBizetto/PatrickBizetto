@@ -1,4 +1,12 @@
-### Hi there 👋
+### Olá, eu sou o Patrick! 👋
+
+- 📖 Estudante de Ciência de Dados pelo Centro Universitário Internacional Uninter - UNINTER
+- 💻 Progamador Amador - faço por amor, mas queria mesmo era fazer pelo dinheiro
+- 🤓 Sempre buscando algo novo para aprender
+- 🏡 Brasileiro, Morando em Araçatuba, interior de SP
+
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickbizetto&langs_count=10&theme=graywhite&layout=compact" alt="Patrick :: Top Langs" /></p>
 
 <!--
 **PatrickBizetto/PatrickBizetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
